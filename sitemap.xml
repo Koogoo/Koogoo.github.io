@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://koogoo.github.io/2020/01/08/hello-world/</loc>
+    <loc>https://koogoo.github.io/2020/01/09/VS-Code-%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6/</loc>
     
-    <lastmod>2020-01-08T14:08:51.184Z</lastmod>
+    <lastmod>2020-01-09T10:10:03.807Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://koogoo.github.io/tags/index.html</loc>
+    
+    <lastmod>2020-01-08T15:38:41.928Z</lastmod>
     
   </url>
   
@@ -19,13 +26,6 @@
     <loc>https://koogoo.github.io/categories/index.html</loc>
     
     <lastmod>2020-01-08T13:19:01.810Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://koogoo.github.io/tags/index.html</loc>
-    
-    <lastmod>2020-01-08T13:12:49.982Z</lastmod>
     
   </url>
   

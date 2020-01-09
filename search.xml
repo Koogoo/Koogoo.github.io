@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>VS Code 常用插件</title>
+    <url>/2020/01/09/VS-Code-%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6/</url>
+    <content><![CDATA[<h1 id="VS-Code-常用插件"><a href="#VS-Code-常用插件" class="headerlink" title="VS Code 常用插件"></a>VS Code 常用插件</h1><h2 id="常用插件"><a href="#常用插件" class="headerlink" title="常用插件"></a>常用插件</h2><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">Project Manager         <span class="comment"># 项目管理工具</span></span><br><span class="line">vscode-icons            <span class="comment"># vscode 图标</span></span><br><span class="line">Material Icon Theme     <span class="comment"># vscode 图标</span></span><br><span class="line">Better Solarized Dark   <span class="comment"># 主题</span></span><br><span class="line">Vibrancy                <span class="comment"># 毛玻璃特效</span></span><br><span class="line">Bracket Pair Colorizer 2<span class="comment"># 括号颜色匹配，便于查看代码</span></span><br><span class="line">indent-rainbow          <span class="comment"># 不同缩进使用不同颜色显示器</span></span><br><span class="line">Settings Sync           <span class="comment"># 配置文件同步到GitHub上</span></span><br><span class="line">Remote Development      <span class="comment"># 远程开发插件（组件）</span></span><br><span class="line">Remote - SSH            <span class="comment"># Remote Development组件之一，可让VSCode直接编译远程服务器文件</span></span><br><span class="line">Better Comments         <span class="comment"># 注释增强显示，注释文字前添加：!、?、//等会显示不同颜色</span></span><br><span class="line">vscode-pdf              <span class="comment"># vscode中打开pdf格式文档</span></span><br><span class="line">Path Intellisense       <span class="comment"># 路径补全</span></span><br><span class="line">Polacode                <span class="comment"># 代码生成图片</span></span><br><span class="line">Chinese (Simplified) Language Pack <span class="keyword">for</span> Visual Studio Code   <span class="comment"># 中文语言包</span></span><br></pre></td></tr></table></figure>
+
+<h2 id="C-C"><a href="#C-C" class="headerlink" title="C/C++"></a>C/C++</h2><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">Code Runner             <span class="comment"># 便捷编译运行C/C++程序</span></span><br><span class="line">CMake                   <span class="comment"># 项目编译</span></span><br><span class="line">CMake Tools</span><br></pre></td></tr></table></figure>
+<a id="more"></a>
+<h2 id="Git"><a href="#Git" class="headerlink" title="Git"></a>Git</h2><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">Git History             <span class="comment"># 查看git日志以及图表和详细信息</span></span><br><span class="line">                        <span class="comment"># 查看文件的历史记录（Git日志）或文件中的行历史（Git Blame）</span></span><br><span class="line">Git Blame               <span class="comment"># 左下角显示光标所在行由谁提交的</span></span><br><span class="line">gitignore               <span class="comment"># 添加文件或者文件夹到gitignore</span></span><br></pre></td></tr></table></figure>
+
+<h2 id="HTLM"><a href="#HTLM" class="headerlink" title="HTLM"></a>HTLM</h2><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">Auto Rename Tag         <span class="comment"># 自动重命名标签</span></span><br><span class="line">Live Server             <span class="comment"># 静态服务器，方便面网页方面的调试</span></span><br><span class="line">vscode-pigments         <span class="comment"># 预览编辑器中使用的颜色</span></span><br><span class="line">REST Client             <span class="comment"># 网页请求测试，调试API等</span></span><br><span class="line">CSS Peek                <span class="comment"># 跳转到CSS定义</span></span><br><span class="line">HTML CSS Support        <span class="comment"># CSS对HTML文档的支持</span></span><br></pre></td></tr></table></figure>
+
+<h2 id="JavaScript"><a href="#JavaScript" class="headerlink" title="JavaScript"></a>JavaScript</h2><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">JavaScript (ES6) code snippets  <span class="comment"># JavaScript自动补全</span></span><br><span class="line">Debugger <span class="keyword">for</span> Chrome             <span class="comment"># 调试JavaScript代码</span></span><br><span class="line">Document This                   <span class="comment"># 函数快速注释</span></span><br><span class="line">Prettier - Code formatter       <span class="comment"># 代码格式化，支持：html，css，js，json，php，nodejs等</span></span><br></pre></td></tr></table></figure>
+
+<h2 id="SQL"><a href="#SQL" class="headerlink" title="SQL"></a>SQL</h2><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">Language PL/SQL         <span class="comment"># 支持SQL语句</span></span><br><span class="line">SQL Server (mssql)</span><br></pre></td></tr></table></figure>
+
+<h2 id="个性插件"><a href="#个性插件" class="headerlink" title="个性插件"></a>个性插件</h2><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="comment"># [ Ctrl + , ] --&gt; 扩展 --&gt; 找到相应的插件</span></span><br><span class="line">Power Mode		<span class="comment"># 打字特效，插件扩展里把：Powermode:Enabled给勾上，Powermode:Presets选择特效</span></span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>VSCode</category>
+      </categories>
+      <tags>
+        <tag>VSCode</tag>
+        <tag>插件</tag>
+      </tags>
+  </entry>
+</search>
